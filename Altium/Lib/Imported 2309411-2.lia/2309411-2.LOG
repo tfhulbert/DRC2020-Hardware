@@ -1,0 +1,35 @@
+PCAD Importer Log
+Project : 2309411-2.LibPkg
+
+Section : C:\Users\n10208577\Desktop\DRC\DRC2020-Hardware\Altium\Lib\2309411-2.lia
+    Section : PCB Library - 2309411-2.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 2309411-2_SECTION1 On Line 681
+            Warning - 1 : Skipping Token 2309411-2_SECTION2 On Line 1999
+            Warning - 1 : Skipping Token attachedSymbol On Line 3356
+            Warning - 1 : Skipping Token attachedSymbol On Line 3357
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*TE_2309411-2][Primary] associated with PCAD Component [2309411-2] has been renamed to PCB FootPrint [*TE_2309411-2_2309411-2(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 2309411-2.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 32
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token multiLayer On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 384
+            Warning - 1 : Skipping Token layerContents On Line 398
+            Warning - 1 : Skipping Token layerContents On Line 455
+            Warning - 1 : Skipping Token layerContents On Line 567
+        EndSection
+
+        Section : Generating SCH Library - 2309411-2.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*TE_2309411-2][Primary] associated with PCAD Component [2309411-2] has been renamed to PCB FootPrint [*TE_2309411-2_2309411-2(Primary)].
+        EndSection
+    EndSection
+EndSection
