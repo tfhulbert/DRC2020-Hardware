@@ -1,0 +1,37 @@
+PCAD Importer Log
+Project : 10118193-0001LF.LibPkg
+
+Section : C:\Users\n10208577\Desktop\DRC\DRC2020-Hardware\Altium\Lib\10118193-0001LF.lia
+    Section : PCB Library - 10118193-0001LF.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 179
+            Warning - 1 : Skipping Token isVisible On Line 200
+            Warning - 1 : Skipping Token 10118193-0001LF On Line 218
+            Warning - 1 : Skipping Token attachedSymbol On Line 355
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*FCI_10118193-0001LF][Primary] associated with PCAD Component [10118193-0001LF] has been renamed to PCB FootPrint [*FCI_10118193-0001LF_10118193-0001LF(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 10118193-0001LF.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 56
+            Warning - 1 : Skipping Token multiLayer On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token layerContents On Line 154
+            Warning - 1 : Skipping Token layerContents On Line 160
+            Warning - 1 : Skipping Token layerContents On Line 181
+            Warning - 1 : Skipping Token layerContents On Line 202
+        EndSection
+
+        Section : Generating SCH Library - 10118193-0001LF.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*FCI_10118193-0001LF][Primary] associated with PCAD Component [10118193-0001LF] has been renamed to PCB FootPrint [*FCI_10118193-0001LF_10118193-0001LF(Primary)].
+        EndSection
+    EndSection
+EndSection
