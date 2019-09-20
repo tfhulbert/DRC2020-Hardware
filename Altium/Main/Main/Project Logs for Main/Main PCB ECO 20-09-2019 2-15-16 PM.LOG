@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=HDMI_SCL Pin=CR4-1
+Removed Pin From Net: NetName=HDMI_SDA Pin=CR4-3
+Added Pin To Net: NetName=HDMI_SCL_5V Pin=CR4-1
+Added Pin To Net: NetName=HDMI_SDA_5V Pin=CR4-3
+Added Room: Name=NvideaJetsonNano
+Added Room: Name=NvideaJetsonPeripherals

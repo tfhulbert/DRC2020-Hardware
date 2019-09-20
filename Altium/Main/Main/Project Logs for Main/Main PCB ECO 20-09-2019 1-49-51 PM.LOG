@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=HDMI_D2_P Pin=CR2-1
+Removed Pin From Net: NetName=HDMI_D1_N Pin=CR2-3
+Removed Pin From Net: NetName=HDMI_D1_P Pin=CR2-4
+Removed Pin From Net: NetName=HDMI_D2_N Pin=CR2-6
+Removed Pin From Net: NetName=HDMI_D0_P Pin=CR3-1
+Removed Pin From Net: NetName=HDMI_CLK_N Pin=CR3-3
+Removed Pin From Net: NetName=HDMI_CLK_P Pin=CR3-4
+Removed Pin From Net: NetName=HDMI_D0_N Pin=CR3-6
+Added Pin To Net: NetName=NetC4_1 Pin=CR2-1
+Added Pin To Net: NetName=NetC7_1 Pin=CR2-3
+Added Pin To Net: NetName=NetC6_1 Pin=CR2-4
+Added Pin To Net: NetName=NetC5_1 Pin=CR2-6
+Added Pin To Net: NetName=NetC8_1 Pin=CR3-1
+Added Pin To Net: NetName=NetC11_1 Pin=CR3-3
+Added Pin To Net: NetName=NetC10_1 Pin=CR3-4
+Added Pin To Net: NetName=NetC9_1 Pin=CR3-6
+Change Net Name : Old Net Name=NetC4_1 New Net Name=D2_P
+Change Net Name : Old Net Name=NetC5_1 New Net Name=D2_N
+Change Net Name : Old Net Name=NetC6_1 New Net Name=D1_P
+Change Net Name : Old Net Name=NetC7_1 New Net Name=D1_N
+Change Net Name : Old Net Name=NetC8_1 New Net Name=D0_P
+Change Net Name : Old Net Name=NetC9_1 New Net Name=D0_N
+Change Net Name : Old Net Name=NetC10_1 New Net Name=CLK_P
+Change Net Name : Old Net Name=NetC11_1 New Net Name=CLK_N
