@@ -1,0 +1,67 @@
+Added Component: Designator=J?(5019512210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Number"; Value = "5019512210"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-13
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=VCC_3V3 Pin=J?-22
+Added Pin To Net: NetName=CAM0_MCLK Pin=J1-116
+Added Pin To Net: NetName=CAM0_MCLK Pin=J?-18
+Added Net: Name=CAM0_MCLK
+Added Pin To Net: NetName=CAM0_PWDN Pin=J1-114
+Added Pin To Net: NetName=CAM0_PWDN Pin=J?-17
+Added Net: Name=CAM0_PWDN
+Added Pin To Net: NetName=CAM0_SCL Pin=J1-213
+Added Pin To Net: NetName=CAM0_SCL Pin=J?-20
+Added Net: Name=CAM0_SCL
+Added Pin To Net: NetName=CAM0_SDA Pin=J1-215
+Added Pin To Net: NetName=CAM0_SDA Pin=J?-21
+Added Net: Name=CAM0_SDA
+Added Pin To Net: NetName=CAM1_C_N Pin=J1-10
+Added Pin To Net: NetName=CAM1_C_N Pin=J?-8
+Added Net: Name=CAM1_C_N
+Added Pin To Net: NetName=CAM1_C_P Pin=J1-12
+Added Pin To Net: NetName=CAM1_C_P Pin=J?-9
+Added Net: Name=CAM1_C_P
+Added Pin To Net: NetName=CAM1_D0_N Pin=J1-4
+Added Pin To Net: NetName=CAM1_D0_N Pin=J?-2
+Added Net: Name=CAM1_D0_N
+Added Pin To Net: NetName=CAM1_D0_P Pin=J1-6
+Added Pin To Net: NetName=CAM1_D0_P Pin=J?-3
+Added Net: Name=CAM1_D0_P
+Added Pin To Net: NetName=CAM1_D1_N Pin=J1-16
+Added Pin To Net: NetName=CAM1_D1_N Pin=J?-5
+Added Net: Name=CAM1_D1_N
+Added Pin To Net: NetName=CAM1_D1_P Pin=J1-18
+Added Pin To Net: NetName=CAM1_D1_P Pin=J?-6
+Added Net: Name=CAM1_D1_P
+Added Pin To Net: NetName=CAM1_D2_N Pin=J1-3
+Added Pin To Net: NetName=CAM1_D2_N Pin=J?-11
+Added Net: Name=CAM1_D2_N
+Added Pin To Net: NetName=CAM1_D2_P Pin=J1-5
+Added Pin To Net: NetName=CAM1_D2_P Pin=J?-12
+Added Net: Name=CAM1_D2_P
+Added Pin To Net: NetName=CAM1_D3_N Pin=J1-15
+Added Pin To Net: NetName=CAM1_D3_N Pin=J?-14
+Added Net: Name=CAM1_D3_N
+Added Pin To Net: NetName=CAM1_D3_P Pin=J1-17
+Added Pin To Net: NetName=CAM1_D3_P Pin=J?-15
+Added Net: Name=CAM1_D3_P
+Added Class: Name=CSI
+Added Differential Pair: Name=CAM1_C
+Added Differential Pair: Name=CAM1_D0
+Added Differential Pair: Name=CAM1_D1
+Added Differential Pair: Name=CAM1_D2
+Added Differential Pair: Name=CAM1_D3
+Added Member To Class: ClassName=NvideaJetsonPeripherals Member=Component J? 5019512210
+Added Room: Name=NvideaJetsonNano
+Added Room: Name=NvideaJetsonPeripherals
+Added Member To Class: ClassName=DIFF Member=CAM1_C
+Added Member To Class: ClassName=DIFF Member=CAM1_D0
+Added Member To Class: ClassName=DIFF Member=CAM1_D1
+Added Member To Class: ClassName=DIFF Member=CAM1_D2
+Added Member To Class: ClassName=DIFF Member=CAM1_D3
