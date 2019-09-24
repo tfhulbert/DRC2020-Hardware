@@ -1,0 +1,46 @@
+Added Pin To Net: NetName=CSI4_CLK_N Pin=J1-52
+Added Net: Name=CSI4_CLK_N
+Added Pin To Net: NetName=CSI4_CLK_P Pin=J1-54
+Added Net: Name=CSI4_CLK_P
+Added Pin To Net: NetName=CSI4_D0_N Pin=J1-46
+Added Net: Name=CSI4_D0_N
+Added Pin To Net: NetName=CSI4_D0_P Pin=J1-48
+Added Net: Name=CSI4_D0_P
+Added Pin To Net: NetName=CSI4_D1_N Pin=J1-58
+Added Net: Name=CSI4_D1_N
+Added Pin To Net: NetName=CSI4_D1_P Pin=J1-60
+Added Net: Name=CSI4_D1_P
+Added Pin To Net: NetName=CSI4_D2_N Pin=J1-40
+Added Net: Name=CSI4_D2_N
+Added Pin To Net: NetName=CSI4_D2_P Pin=J1-42
+Added Net: Name=CSI4_D2_P
+Added Pin To Net: NetName=CSI4_D3_N Pin=J1-64
+Added Net: Name=CSI4_D3_N
+Added Pin To Net: NetName=CSI4_D3_P Pin=J1-66
+Added Net: Name=CSI4_D3_P
+Added Pin To Net: NetName=DP0_AUX_N Pin=J1-90
+Added Net: Name=DP0_AUX_N
+Added Pin To Net: NetName=DP0_AUX_P Pin=J1-92
+Added Net: Name=DP0_AUX_P
+Added Pin To Net: NetName=DP0_HPD Pin=J1-88
+Added Net: Name=DP0_HPD
+Added Pin To Net: NetName=DP0_TXD0_N Pin=J1-39
+Added Net: Name=DP0_TXD0_N
+Added Pin To Net: NetName=DP0_TXD0_P Pin=J1-41
+Added Net: Name=DP0_TXD0_P
+Added Pin To Net: NetName=DP0_TXD1_N Pin=J1-45
+Added Net: Name=DP0_TXD1_N
+Added Pin To Net: NetName=DP0_TXD1_P Pin=J1-47
+Added Net: Name=DP0_TXD1_P
+Added Pin To Net: NetName=DP0_TXD2_N Pin=J1-51
+Added Net: Name=DP0_TXD2_N
+Added Pin To Net: NetName=DP0_TXD2_P Pin=J1-53
+Added Net: Name=DP0_TXD2_P
+Added Pin To Net: NetName=DP0_TXD3_N Pin=J1-57
+Added Net: Name=DP0_TXD3_N
+Added Pin To Net: NetName=DP0_TXD3_P Pin=J1-59
+Added Net: Name=DP0_TXD3_P
+Added Member To Class: ClassName=NvideaJetsonNano Member=Component J1 2309411-2
+Added Room: Name=NvideaJetsonNano
+Added Room: Name=NvideaJetsonPeripherals
+Added Room: Name=PowerSupply
