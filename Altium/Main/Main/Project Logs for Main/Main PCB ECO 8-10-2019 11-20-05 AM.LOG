@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VBUS_HDMI_5V Pin=R20-1
+Added Pin To Net: NetName=VBUS_HDMI_5V Pin=R21-1
+Added Room: Name=NvideaJetsonNano
+Added Room: Name=NvideaJetsonPeripherals
+Added Room: Name=PowerSupply
