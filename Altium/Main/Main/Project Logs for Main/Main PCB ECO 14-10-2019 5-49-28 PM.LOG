@@ -1,0 +1,47 @@
+Added Component: Designator=C?(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Number"; Value = "DMP2305U-7"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TSOT-23_TS8-M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Number"; Value = "LTC2954CTS8-2#TRMPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LTC2954CTS8-2_TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=SYS_SW Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-7
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-6
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=PB1 Pin=U?-2
+Added Net: Name=PB1
+Added Pin To Net: NetName=PWR_INT Pin=U?-5
+Added Net: Name=PWR_INT
+Added Pin To Net: NetName=PWR_KILL Pin=U?-8
+Added Net: Name=PWR_KILL
+Added Pin To Net: NetName=SYS_IN Pin=Q?-2
+Added Pin To Net: NetName=SYS_IN Pin=R?-2
+Added Pin To Net: NetName=SYS_IN Pin=U?-1
+Added Net: Name=SYS_IN
+Added Member To Class: ClassName=PowerSupply Member=Component C? CAP
+Added Member To Class: ClassName=PowerSupply Member=Component Q? DMP2305U-7
+Added Member To Class: ClassName=PowerSupply Member=Component R? RES
+Added Member To Class: ClassName=PowerSupply Member=Component R? RES
+Added Member To Class: ClassName=PowerSupply Member=Component U? LTC2954CTS8-2_TR

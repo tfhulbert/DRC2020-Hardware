@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=Q? NewDesignator=Q7
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR40_1
+Added Member To Class: ClassName=PowerSupply Member=Component R41 RES
