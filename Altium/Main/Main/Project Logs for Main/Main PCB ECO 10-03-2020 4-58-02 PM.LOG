@@ -1,0 +1,10 @@
+Added Component: Designator=L6(L0603)
+Add component (AddParameter): Name = "Value"; Value = "BLM21PG221SN1D"; VariantName = "[No Variations]"
+Added Component: Designator=L7(L0603)
+Add component (AddParameter): Name = "Value"; Value = "BLM21PG221SN1D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_1V2 Pin=L6-1
+Added Pin To Net: NetName=USB_HUB_VDD_EFUSE Pin=L6-2
+Added Pin To Net: NetName=NetC29_1 Pin=L7-1
+Added Pin To Net: NetName=VCC_3V3 Pin=L7-2
+Added Member To Class: ClassName=NvideaJetsonUSB Member=Component L6 IND
+Added Member To Class: ClassName=NvideaJetsonUSB Member=Component L7 IND

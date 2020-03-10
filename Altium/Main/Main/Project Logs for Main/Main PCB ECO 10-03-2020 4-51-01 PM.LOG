@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J6-7
+Removed Pin From Net: NetName=GND Pin=J8-4
+Removed Pin From Net: NetName=GND Pin=J8-7
+Removed Member From Class: ClassName=NvideaJetsonUSBPage2 Member=C62
+Removed Member From Class: ClassName=NvideaJetsonUSBPage2 Member=C64
+Removed Member From Class: ClassName=NvideaJetsonUSBPage2 Member=C66
+Removed Member From Class: ClassName=NvideaJetsonUSBPage2 Member=C68
+Removed Member From Class: ClassName=USB Member=DS3_1_TX_N
+Removed Member From Class: ClassName=USB Member=DS3_1_TX_P
+Removed Member From Class: ClassName=USB Member=DS3_RX_N
+Removed Member From Class: ClassName=USB Member=DS3_RX_P
+Removed Member From Class: ClassName=USB Member=DS3_TX_N
+Removed Member From Class: ClassName=USB Member=DS3_TX_P
+Removed Member From Class: ClassName=USB Member=DS4_1_TX_N
+Removed Member From Class: ClassName=USB Member=DS4_1_TX_P
+Removed Member From Class: ClassName=USB Member=DS4_RX_N
+Removed Member From Class: ClassName=USB Member=DS4_RX_P
+Removed Member From Class: ClassName=USB Member=DS4_TX_N
+Removed Member From Class: ClassName=USB Member=NetJ8_5
+Change Component Footprint: Designator=J6 Old Footprint=0484050003 New Footprint=10118193-0001LF
+Change Component Footprint: Designator=J8 Old Footprint=0484050003 New Footprint=10118193-0001LF
+Change Component Comment : Designator=J6 Old Comment=0484050003 New Comment=10118193-0001LF
+Change Component Comment : Designator=J8 Old Comment=0484050003 New Comment=10118193-0001LF
+Change component parameters: Designator = "J6" ("J6"); Footprint = "0484050003"; UniqueID = "\BHTBDYCW" ("\BHTBDYCW")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "609-4616-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.au/product-detail/en/amphenol-icc-fci/10118193-0001LF/609-4616-1-ND/2785380?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10118193-0001LF/Amphenol%20ICC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "0484050003"; UniqueID = "\LDBFAXRX" ("\LDBFAXRX")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "609-4616-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.au/product-detail/en/amphenol-icc-fci/10118193-0001LF/609-4616-1-ND/2785380?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10118193-0001LF/Amphenol%20ICC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-S
+Added Pin To Net: NetName=GND Pin=J6-S
+Added Pin To Net: NetName=GND Pin=J6-S
+Added Pin To Net: NetName=GND Pin=J6-S
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=J8-S
+Added Pin To Net: NetName=GND Pin=J8-S
+Added Pin To Net: NetName=GND Pin=J8-S
+Added Pin To Net: NetName=GND Pin=J8-S
+Change Net Name : Old Net Name=DS4_TX_P New Net Name=NetLED5_A

@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=GND Pin=J6-5
+Removed Pin From Net: NetName=GND Pin=J6-S
+Removed Pin From Net: NetName=GND Pin=J6-S
+Removed Pin From Net: NetName=GND Pin=J6-S
+Removed Pin From Net: NetName=GND Pin=J6-S
+Removed Pin From Net: NetName=GND Pin=J8-5
+Removed Pin From Net: NetName=GND Pin=J8-S
+Removed Pin From Net: NetName=GND Pin=J8-S
+Removed Pin From Net: NetName=GND Pin=J8-S
+Removed Pin From Net: NetName=GND Pin=J8-S
+Removed Member From Class: ClassName=USB Member=DS1_D_N
+Removed Member From Class: ClassName=USB Member=DS1_D_P
+Removed Member From Class: ClassName=USB Member=DS2_D_N
+Removed Member From Class: ClassName=USB Member=DS2_D_P
+Removed Member From Class: ClassName=USB Member=DS3_D_N
+Removed Member From Class: ClassName=USB Member=DS3_D_P
+Removed Member From Class: ClassName=USB Member=DS4_D_N
+Removed Member From Class: ClassName=USB Member=DS4_D_P
+Removed Member From Class: ClassName=USB Member=NetLED8_A
+Change Component Footprint: Designator=J6 Old Footprint=10118193-0001LF New Footprint=0484050003
+Change Component Footprint: Designator=J8 Old Footprint=10118193-0001LF New Footprint=0484050003
+Change Component Comment : Designator=J6 Old Comment=10118193-0001LF New Comment=0484050003
+Change Component Comment : Designator=J8 Old Comment=10118193-0001LF New Comment=0484050003
+Change component parameters: Designator = "J6" ("J6"); Footprint = "10118193-0001LF"; UniqueID = "\JPXNWGRC" ("\JPXNWGRC")
+Change component parameters: Designator = "J8" ("J8"); Footprint = "10118193-0001LF"; UniqueID = "\OHGRMRMW" ("\OHGRMRMW")
+Added Component: Designator=C62(C0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C64(C0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C66(C0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C68(C0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-7
+Change Net Name : Old Net Name=DS1_D_N New Net Name=DS1_N
+Change Net Name : Old Net Name=DS1_D_P New Net Name=DS1_P
+Change Net Name : Old Net Name=DS2_D_N New Net Name=DS2_N
+Change Net Name : Old Net Name=DS2_D_P New Net Name=DS2_P
+Change Net Name : Old Net Name=DS3_D_N New Net Name=DS3_N
+Change Net Name : Old Net Name=DS3_D_P New Net Name=DS3_P
+Change Net Name : Old Net Name=DS4_D_N New Net Name=DS4_N
+Change Net Name : Old Net Name=DS4_D_P New Net Name=DS4_P
+Added Pin To Net: NetName=DS3_1_TX_N Pin=C62-2
+Added Pin To Net: NetName=DS3_1_TX_N Pin=J6-8
+Added Net: Name=DS3_1_TX_N
+Added Pin To Net: NetName=DS3_1_TX_P Pin=C64-2
+Added Pin To Net: NetName=DS3_1_TX_P Pin=J6-9
+Added Net: Name=DS3_1_TX_P
+Added Pin To Net: NetName=DS3_RX_N Pin=J6-5
+Added Pin To Net: NetName=DS3_RX_N Pin=U8-46
+Added Net: Name=DS3_RX_N
+Added Pin To Net: NetName=DS3_RX_P Pin=J6-6
+Added Pin To Net: NetName=DS3_RX_P Pin=U8-45
+Added Net: Name=DS3_RX_P
+Added Pin To Net: NetName=DS3_TX_N Pin=C62-1
+Added Pin To Net: NetName=DS3_TX_N Pin=U8-49
+Added Net: Name=DS3_TX_N
+Added Pin To Net: NetName=DS3_TX_P Pin=C64-1
+Added Pin To Net: NetName=DS3_TX_P Pin=U8-48
+Added Net: Name=DS3_TX_P
+Added Pin To Net: NetName=DS4_1_TX_N Pin=C66-2
+Added Pin To Net: NetName=DS4_1_TX_N Pin=J8-8
+Added Net: Name=DS4_1_TX_N
+Added Pin To Net: NetName=DS4_1_TX_P Pin=C68-2
+Added Pin To Net: NetName=DS4_1_TX_P Pin=J8-9
+Added Net: Name=DS4_1_TX_P
+Added Pin To Net: NetName=DS4_RX_N Pin=J8-5
+Added Pin To Net: NetName=DS4_RX_N Pin=U8-19
+Added Net: Name=DS4_RX_N
+Added Pin To Net: NetName=DS4_RX_P Pin=J8-6
+Added Pin To Net: NetName=DS4_RX_P Pin=U8-20
+Added Net: Name=DS4_RX_P
+Added Pin To Net: NetName=DS4_TX_N Pin=C66-1
+Added Pin To Net: NetName=DS4_TX_N Pin=U8-17
+Added Net: Name=DS4_TX_N
+Added Pin To Net: NetName=DS4_TX_P Pin=C68-1
+Added Pin To Net: NetName=DS4_TX_P Pin=U8-16
+Added Net: Name=DS4_TX_P
+Change Differential Pair Positive Net Name : Old Net Name=DS2_RX_P New Net Name=DS2_RX_P
+Change Differential Pair Negative Net Name : Old Net Name=DS2_RX_N New Net Name=DS2_RX_N
+Added Differential Pair: Name=DS1
+Added Differential Pair: Name=DS2
+Added Differential Pair: Name=DS3_1_TX
+Added Differential Pair: Name=DS3_RX
+Added Differential Pair: Name=DS3_TX
+Added Differential Pair: Name=DS3
+Added Differential Pair: Name=DS4_1_TX
+Added Differential Pair: Name=DS4_RX
+Added Differential Pair: Name=DS4_TX
+Added Differential Pair: Name=DS4
+Added Member To Class: ClassName=NvideaJetsonUSBPage2 Member=Component C62 CAP
+Added Member To Class: ClassName=NvideaJetsonUSBPage2 Member=Component C64 CAP
+Added Member To Class: ClassName=NvideaJetsonUSBPage2 Member=Component C66 CAP
+Added Member To Class: ClassName=NvideaJetsonUSBPage2 Member=Component C68 CAP
+Added Member To Class: ClassName=USB Member=Wire DS1_N
+Added Member To Class: ClassName=USB Member=Wire DS1_P
+Added Member To Class: ClassName=USB Member=Wire DS2_N
+Added Member To Class: ClassName=USB Member=Wire DS2_P
+Added Member To Class: ClassName=USB Member=Wire DS2_RX_N
+Added Member To Class: ClassName=USB Member=Wire DS3_1_TX_N
+Added Member To Class: ClassName=USB Member=Wire DS3_1_TX_P
+Added Member To Class: ClassName=USB Member=Wire DS3_N
+Added Member To Class: ClassName=USB Member=Wire DS3_P
+Added Member To Class: ClassName=USB Member=Wire DS3_RX_N
+Added Member To Class: ClassName=USB Member=Wire DS3_RX_P
+Added Member To Class: ClassName=USB Member=Wire DS3_TX_N
+Added Member To Class: ClassName=USB Member=Wire DS3_TX_P
+Added Member To Class: ClassName=USB Member=Wire DS4_1_TX_N
+Added Member To Class: ClassName=USB Member=Wire DS4_1_TX_P
+Added Member To Class: ClassName=USB Member=Wire DS4_N
+Added Member To Class: ClassName=USB Member=Wire DS4_P
+Added Member To Class: ClassName=USB Member=Wire DS4_RX_N
+Added Member To Class: ClassName=USB Member=Wire DS4_RX_P
+Added Member To Class: ClassName=USB Member=Wire DS4_TX_N
+Added Member To Class: ClassName=USB Member=Wire DS4_TX_P
+Added Member To Class: ClassName=DIFF Member=DS1
+Added Member To Class: ClassName=DIFF Member=DS2
+Added Member To Class: ClassName=DIFF Member=DS3_1_TX
+Added Member To Class: ClassName=DIFF Member=DS3_RX
+Added Member To Class: ClassName=DIFF Member=DS3_TX
+Added Member To Class: ClassName=DIFF Member=DS3
+Added Member To Class: ClassName=DIFF Member=DS4_1_TX
+Added Member To Class: ClassName=DIFF Member=DS4_RX
+Added Member To Class: ClassName=DIFF Member=DS4_TX
+Added Member To Class: ClassName=DIFF Member=DS4

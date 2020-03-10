@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=USB Member=NetJ5_2
+Removed Member From Class: ClassName=USB Member=NetJ5_3
+Removed Member From Class: ClassName=USB Member=NetJ6_2
+Removed Member From Class: ClassName=USB Member=NetJ6_3
+Removed Member From Class: ClassName=USB Member=NetJ7_2
+Removed Member From Class: ClassName=USB Member=NetJ7_3
+Removed Member From Class: ClassName=USB Member=NetJ7_5
+Removed Member From Class: ClassName=USB Member=NetJ8_2
+Removed Member From Class: ClassName=USB Member=NetJ8_3
+Change Net Name : Old Net Name=DS2_RX_N New Net Name=DS2_RX_P
+Change Net Name : Old Net Name=DS2_RX_P New Net Name=DS2_TX_N
+Change Net Name : Old Net Name=DS2_TX_N New Net Name=DS2_TX_P
+Change Net Name : Old Net Name=DS2_TX_P New Net Name=NetLED8_A
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=DS1_D_N
+Change Net Name : Old Net Name=NetJ5_3 New Net Name=DS1_D_P
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=DS3_D_N
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=DS3_D_P
+Change Net Name : Old Net Name=NetJ7_2 New Net Name=DS2_D_N
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=DS2_D_P
+Change Net Name : Old Net Name=NetJ7_5 New Net Name=DS2_RX_N
+Change Net Name : Old Net Name=NetJ8_2 New Net Name=DS4_D_N
+Change Net Name : Old Net Name=NetJ8_3 New Net Name=DS4_D_P
+Added Differential Pair: Name=DS1_D
+Added Differential Pair: Name=DS2_D
+Added Differential Pair: Name=DS2_TX
+Added Differential Pair: Name=DS3_D
+Added Differential Pair: Name=DS4_D
+Added Member To Class: ClassName=USB Member=Wire DS1_D_N
+Added Member To Class: ClassName=USB Member=Wire DS1_D_P
+Added Member To Class: ClassName=USB Member=Wire DS2_D_N
+Added Member To Class: ClassName=USB Member=Wire DS2_D_P
+Added Member To Class: ClassName=USB Member=Wire DS2_TX_P
+Added Member To Class: ClassName=USB Member=Wire DS3_D_N
+Added Member To Class: ClassName=USB Member=Wire DS3_D_P
+Added Member To Class: ClassName=USB Member=Wire DS4_D_N
+Added Member To Class: ClassName=USB Member=Wire DS4_D_P
+Added Member To Class: ClassName=DIFF Member=DS1_D
+Added Member To Class: ClassName=DIFF Member=DS2_D
+Added Member To Class: ClassName=DIFF Member=DS2_TX
+Added Member To Class: ClassName=DIFF Member=DS3_D
+Added Member To Class: ClassName=DIFF Member=DS4_D
