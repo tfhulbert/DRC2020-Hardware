@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Member To Class: ClassName=NvideaJetsonUSBPage2 Member=Component C61 CAP
+Added Member To Class: ClassName=NvideaJetsonUSBPage2 Member=Component C67 CAP
